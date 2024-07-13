@@ -26,7 +26,7 @@ EDA involved exploring the call center dataset to answer key questions such as:
 - What city had more patronage from customers?
 - What were the least and most requests of customers?
 
-### Data Analysis (No Code)
+### Data Analysis
 -Pivot tables e.g Calls by sentiment, reason for calls, calls by channel, call center, calls by reponse time, calls by call day, response time by call center, sentiment by call center, response time by call center, calls by call day, calls by state and calls by city.
 
 ### Results/Findings
@@ -39,3 +39,4 @@ The analysis results are summarized as follows:
 ### Limitation
 In the dataset, I had to transform the csat_score and call_time_stamp column datatype because there weren't spcific and it would have affected our dashboard.
 
+💻
