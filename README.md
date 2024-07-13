@@ -40,3 +40,4 @@ The analysis results are summarized as follows:
 In the dataset, I had to transform the csat_score and call_time_stamp column datatype because there weren't spcific and it would have affected our dashboard.
 
 💻
+📲
